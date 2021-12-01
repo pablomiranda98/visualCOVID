@@ -1,2 +1,2 @@
-seabor
-matplotlib
+seaborn
+matplotlib.pyplot
